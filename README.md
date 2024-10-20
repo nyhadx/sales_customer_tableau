@@ -6,7 +6,7 @@ Build two dashboards using the tableau to help stakeholders, including sales man
 
 
 
-![Dashboard]((https://github.com/nyhadx/sales_customer_tableau/blob/main/Sales_KPI_Dashboard.png))
+![Dashboard](https://github.com/nyhadx/sales_customer_tableau/blob/main/Sales_KPI_Dashboard.png)
 
 ## Purpose
 The purpose of the sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
